@@ -1,0 +1,2 @@
+# Newsletter
+Gerador de newsletter
